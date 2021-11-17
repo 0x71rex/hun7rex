@@ -12,13 +12,13 @@ Automate your recon process.
 ## Installation:- 
 
 ```bash
-▶ GO111MODULE=on go install -v github.com/0x71rex/hun7rex/cmd/hun7rex
+GO111MODULE=on go install -v github.com/0x71rex/hun7rex/cmd/hun7rex
 ```
 
 ## Usage:- 
 
 ```bash
-"▶" hun7rex -h
+hun7rex -h
 ```
 
 This will display help for the tool. Here are all the switches it supports.
