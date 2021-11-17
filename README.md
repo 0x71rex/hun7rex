@@ -18,7 +18,7 @@ Automate your recon process.
 ## Usage:- 
 
 ```bash
-▶ hun7rex -h
+"▶" hun7rex -h
 ```
 
 This will display help for the tool. Here are all the switches it supports.
