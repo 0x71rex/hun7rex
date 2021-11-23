@@ -12,7 +12,11 @@ Automate your recon process.
 ## Installation:- 
 
 ```bash
+<<<<<<< HEAD
 GO111MODULE=on go install -v github.com/0x71rex/hun7rex/cmd/hun7rex@latest
+=======
+go install -v github.com/0x71rex/hun7rex/cmd/hun7rex@latest
+>>>>>>> a4b848b18dd3cdf8bdf5a816fef6daed38fcb6be
 ```
 
 ## Usage:- 
