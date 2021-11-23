@@ -1,9 +1,9 @@
-[![License](https://img.shields.io/badge/license-MIT-_red.svg)](https://opensource.org/licenses/MIT)
-[![Go Report Card](https://goreportcard.com/badge/github.com/0x71rex/hun7rex)](https://goreportcard.com/report/github.com/0x71rex/hun7rex)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/0x71rex/hun7rex/issues)
-[![GitHub Release](https://img.shields.io/github/release/0x71rex/hun7rex)](https://github.com/0x71rex/hun7rex/releases)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/0x71rex.svg?logo=twitter)](https://twitter.com/0x71rex)
-[![Chat on Discord](https://img.shields.io/discord/822482475880022038.svg?logo=discord)](https://discord.gg/cTKMyNuDNH)
+[![License](https://img.shields.io/badge/license-MIT-_red.svg?style=plastic)](https://opensource.org/licenses/MIT)
+[![Go Report Card](https://goreportcard.com/badge/github.com/0x71rex/hun7rex?style=plastic)](https://goreportcard.com/report/github.com/0x71rex/hun7rex)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=plastic)](https://github.com/0x71rex/hun7rex/issues)
+[![GitHub Release](https://img.shields.io/github/release/0x71rex/hun7rex?style=plastic)](https://github.com/0x71rex/hun7rex/releases)
+[![Chat on Discord](https://img.shields.io/discord/822482475880022038.svg?logo=discord&style=plastic)](https://discord.gg/cTKMyNuDNH)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/0x71rex?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x71rex&screen_name=0x71rex)
 
 # Hun7rex
 
@@ -12,7 +12,11 @@ Automate your recon process.
 ## Installation:- 
 
 ```bash
+<<<<<<< HEAD
+GO111MODULE=on go install -v github.com/0x71rex/hun7rex/cmd/hun7rex@latest
+=======
 go install -v github.com/0x71rex/hun7rex/cmd/hun7rex@latest
+>>>>>>> a4b848b18dd3cdf8bdf5a816fef6daed38fcb6be
 ```
 
 ## Usage:- 
