@@ -5,7 +5,7 @@
 [![Chat on Discord](https://img.shields.io/discord/822482475880022038.svg?logo=discord&style=plastic)](https://discord.gg/cTKMyNuDNH)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/0x71rex?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x71rex&screen_name=0x71rex)
 
-# Hun7rex
+# Hun7Rex
 
 Automate your recon process.
 
