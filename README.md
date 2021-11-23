@@ -12,8 +12,6 @@ Automate your recon process.
 ## Installation:- 
 
 ```bash
-GO111MODULE=on go install -v github.com/0x71rex/hun7rex/cmd/hun7rex@latest
-=======
 go install -v github.com/0x71rex/hun7rex/cmd/hun7rex@latest
 ```
 
