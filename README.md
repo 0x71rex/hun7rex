@@ -37,7 +37,7 @@ This will display help for the tool. Here are all the switches it supports.
 👨‍💻 Community
 -----
 
-You are welcomed to join our [Discord Community](https://discord.gg/cTKMyNuDNH). You can also follow us on [Twitter](https://twitter.com/0x71rex) to keep up with everything related to hun7rex project.
+You are welcomed to join our [Discord Community](https://discord.gg/cTKMyNuDNH). You can also follow us on [Twitter](https://twitter.com/0x71rex) to keep up with everything related to 0x71rex's project.
 
 💡 Notes
 -----
