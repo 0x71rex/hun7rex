@@ -1,3 +1,7 @@
+<p align="center">
+بسم الله الرحمن الرحيم
+</p>
+
 [![License](https://img.shields.io/badge/license-MIT-_red.svg?style=plastic)](https://opensource.org/licenses/MIT)
 [![Go Report Card](https://goreportcard.com/badge/github.com/0x71rex/hun7rex?style=plastic)](https://goreportcard.com/report/github.com/0x71rex/hun7rex)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=plastic)](https://github.com/0x71rex/hun7rex/issues)
@@ -33,7 +37,7 @@ This will display help for the tool. Here are all the switches it supports.
 👨‍💻 Community
 -----
 
-You are welcomed to join our [Discord Community](https://discord.gg/cTKMyNuDNH). You can also follow us on [Twitter](https://twitter.com/0x71rex) to keep up with everything related to hun7rex project.
+You are welcomed to join our [Discord Community](https://discord.gg/cTKMyNuDNH). You can also follow us on [Twitter](https://twitter.com/0x71rex) to keep up with everything related to 0x71rex's project.
 
 💡 Notes
 -----
