@@ -2,7 +2,7 @@ module github.com/0x71rex/hun7rex
 
 go 1.17
 
-require github.com/projectdiscovery/gologger v1.1.7 // direct
+require github.com/projectdiscovery/gologger v1.1.8 // direct
 
 require (
 	github.com/json-iterator/go v1.1.12 // indirect; direct
