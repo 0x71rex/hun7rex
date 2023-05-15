@@ -2,7 +2,7 @@ module github.com/0x71rex/hun7rex
 
 go 1.17
 
-require github.com/projectdiscovery/gologger v1.1.9 // direct
+require github.com/projectdiscovery/gologger v1.1.10 // direct
 
 require (
 	github.com/json-iterator/go v1.1.12 // indirect; direct
@@ -14,6 +14,8 @@ require (
 require (
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
+	github.com/google/go-cmp v0.5.9 // indirect
+	github.com/kr/pretty v0.3.1 // indirect
 	github.com/mholt/archiver v3.1.1+incompatible // indirect
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/pierrec/lz4 v2.6.0+incompatible // indirect
