@@ -1,4 +1,4 @@
-FROM golang:1.20.7-alpine as build-env
+FROM golang:1.21.1-alpine as build-env
 RUN GO111MODULE=on go get -v github.com/0x71rex/hun7rex/cmd/hun7rex
 
 FROM alpine:latest
